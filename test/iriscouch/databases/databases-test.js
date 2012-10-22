@@ -1,5 +1,5 @@
 /*
- * databases-test.js: Tests for MongoHQ databases service
+ * databases-test.js: Tests for IrisCouch databases service
  *
  * (C) 2012 Nodejitsu Inc.
  * MIT LICENSE
