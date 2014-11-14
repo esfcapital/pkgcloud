@@ -1,4 +1,10 @@
 {
-  "keyFilename": "/Users/stephen/dev/keyfile.json",
-  "projectId": "nth-circlet-705"
+  "credentials": {
+    "private_key_id": "7",
+    "private_key": "XXXXXXXX",
+    "client_email": "firstpart@secondpart.com",
+    "client_id": "8",
+    "type": "service_account"
+  },
+  "projectId": "test-project"
 }
